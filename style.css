@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e7e7e79d;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo1 {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.titulo2 {
+    padding: 15px 0px;
+}
+
+.headerModa, .headerCasa, .tabelaConteudo {
+    color: #fff;
+    font-size: 1.2em;
+}
+
+.headerModa {
+    background-color: #BB86FC;
+}
+
+.headerCasa {
+    background-color: #00C4B4;
+}
+
+.tabelaConteudo {
+    background-color: #424250;
+}
+
+th, td{
+    padding: 8px;
+}
